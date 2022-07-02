@@ -1,0 +1,144 @@
+/********************* html tags *******************/
+body {
+  font-family: 'Balsamiq Sans', cursive;
+  text-align: center;
+}
+
+svg {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+/*                        class                            */
+
+/* heading */
+.fonts {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+  padding-top: 7rem;
+}
+
+/* container */
+.container-fluid {
+  padding: 10px 30px;
+}
+
+/* navbar */
+.navbar-brand {
+  font-family: 'Mochiy Pop One', sans-serif;
+  font-size: 30px;
+  padding-left: 60px;
+}
+
+.nav-link {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/* title image */
+.title-img {
+  padding-left: 90px;
+}
+
+/* how we train section */
+.feabox {
+  padding: 0 25px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.fea-para {
+  color: #8f8f8f;
+}
+
+/* icon */
+.icon {
+  color: #005A8D;
+  font-size: 5px;
+}
+
+.icon:hover {
+  color: #022E57;
+}
+
+/* testimoniols */
+.carousel {
+  padding: 100px 60px;
+  background-color: #005A8D;
+  color: white;
+}
+
+.img {
+  width: 10%;
+}
+
+.test {
+  font-size: 4em;
+  line-height: 1.5;
+}
+
+.profile {
+  font-size: 1.5em;
+  padding-right: 5%;
+}
+
+.padding {
+  padding: 1rem;
+}
+
+.carousel-item {
+  padding: 0% 10%;
+}
+
+/* CTA section */
+.cta-heading {
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+.download-button {
+  margin: 10px 15px 5px 10px;
+}
+
+.padding {
+  padding: 5px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/********************       ID                                */
+/* title */
+#title {
+  background-color: #022E57;
+  color: white;
+}
+
+#par {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+  line-height: 1.5;
+  color: white;
+}
+
+/* how we train section */
+#how {
+  padding: 7% 10%;
+}
+
+/* CTA section */
+#cta {
+  background-color: #022E57;
+  color: white;
+  padding: 13% 15%;
+}
+
+/* footer */
+#footer {
+  margin: 7% 15%;
+}
